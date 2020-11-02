@@ -3,7 +3,7 @@ MAINTAINER paulyao
 
 RUN apk update && \
 	apk add --no-cache --update git redis && \
-	git clone https://github.com/AlliotTech/naiveboom.git && \
+	git clone https://github.com/paulyao/naiveboom.git && \
 	cd naiveboom/ && \
 	apk del git && \
 	rm /naiveboom/.git* -rf && \
