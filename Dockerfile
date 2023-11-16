@@ -1,4 +1,4 @@
-from node:8-alpine
+from node:20.1-alpine
 MAINTAINER paulyao
 
 RUN apk update && \
