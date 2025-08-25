@@ -16,7 +16,7 @@
     "pug": "latest",
     "redis": "^2.8.0",
     "serve-favicon": "~2.4.5",
-    "util": "^0.10.3",
+    "util": "^0.12.5",
     "uuid": "^3.2.1"
   }
 }
